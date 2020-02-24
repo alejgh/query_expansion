@@ -1,6 +1,6 @@
 appnope==0.1.0
 asn1crypto==0.22.0
-bleach==1.5.0
+bleach==3.1.1
 boto==2.48.0
 bz2file==0.98
 certifi==2016.2.28
