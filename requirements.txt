@@ -14,7 +14,7 @@ elasticsearch-dsl==5.3.0
 entrypoints==0.2.3
 gensim==2.3.0
 glove-python==0.1.0
-html5lib==0.999
+html5lib==0.999999999
 idna==2.6
 ipykernel==4.6.1
 ipython==6.1.0
